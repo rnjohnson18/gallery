@@ -1,0 +1,1 @@
+<!-- Link purposely broken for humorous effect -->Informative graph of &lt;a href=&quot;https://github.com/hexchat/hexchat&quot;&gt;HexChat&lt;/a&gt;'s Lag Meter behavior
