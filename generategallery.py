@@ -41,7 +41,7 @@ img {{
 
 """.format(time.strftime("%a, %d %b %Y %H:%M:%S +0000", time.gmtime()), os.path.basename(__file__)))
 
-files = os.listdir(outdir)
+files = sorted(os.listdir(outdir))
 for file in files:
     # Iterate over .jpeg, .jpg, .png, and .gif files
     fileext = os.path.splitext(file)
