@@ -22,7 +22,7 @@ write("""
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>The OpenGLolol Gallery!</title>
+<title>OpenGLolol Gallery</title>
 <style>
 body {{
     font-family: sans-serif;
@@ -35,7 +35,7 @@ img {{
 </head>
 
 <body>
-<h1>Introducing, the OpenGLolol Gallery! <span style="font-size:75%">(featuring Microsoft Paint and the <a href="https://ircnet.overdrivenetworks.com/">OVERdrive Community</a>)</span></h1>
+<h1>OpenGLolol, <i>the</i> repository for shitty art.</h1>
 <p>This page was automatically generated on <em>{}</em> by a script <a href="{}">(source)</a></p>
 <p>Some images have captions for more context if you hover over them. :)</p>
 
